@@ -1,3 +1,4 @@
+/*interget to binary string*/
 char * itobs(int n,char *ps)
 {
 	int i;
