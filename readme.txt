@@ -1,3 +1,3 @@
 git test for repo.
 test for branch dev.
-this is in master.
+this is in master adn dev .
