@@ -1,4 +1,2 @@
-git test for repo.
-test for branch dev.
-use branch dev change file.
-change file and pull dev.
+learn git in this rep.
+i really love git,also github.
