@@ -1,6 +1,6 @@
 #java
 .classpath
-.bin/
+bin/
 .settings/
 *src/main/java/META-INF/
 *.log
