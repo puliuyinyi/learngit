@@ -1,3 +1,16 @@
+/***************************************
+Function: getlet
+Description: select a character from a given string
+Input: 
+		string s: means you can select a character from this string 
+Output:  
+Return: 
+		char c: what you have selected in given string
+Other: 
+***************************************/
+
+
+
 /*select a character from a string*/
 char getlet(const char * s)
 {
