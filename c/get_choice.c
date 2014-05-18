@@ -2,10 +2,10 @@
 Function: getlet
 Description: select a character from a given string
 Input: 
-		string s: means you can select a character from this string 
+	string s: means you can select a character from this string 
 Output:  
 Return: 
-		char c: what you have selected in given string
+	char c: what you have selected in given string
 Other: 
 ***************************************/
 
