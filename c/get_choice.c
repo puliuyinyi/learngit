@@ -1,20 +1,17 @@
 /***************************************
-Function: getlet
-Description: select a character from a given string
-Input: 
+FUNCTION: getlet
+DESCRIPTION: select a character from a given string
+INPUT: 
 	string s: means you can select a character from this string 
-Output:  
-Return: 
+OUTPUT:  
+RETURN: 
 	char c: what you have selected in given string
-Other: 
+OTHER: 
 ***************************************/
-
-
-
-/*select a character from a string*/
 char getlet(const char * s)
 {
 	char c;
+	
 	c = getchar();
 	while (strchr(s, c) == NULL)
 	{
@@ -25,5 +22,6 @@ char getlet(const char * s)
 	}
 	while (getchar() != '\n')
 		continue;
+		
 	return c;
 }
