@@ -2,7 +2,7 @@ learn git in this rep.
 i really love git,also github.
 git is really easy to use.
 
-```python
+[code = c]
 @requires_authorization
 class SomeClass:
     pass
@@ -10,4 +10,4 @@ class SomeClass:
 if __name__ == '__main__':
     # A comment
     print 'hello world'
-```
+[/code]
