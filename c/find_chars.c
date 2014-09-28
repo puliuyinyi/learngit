@@ -9,7 +9,7 @@
                   const char * chars 关键字字符串
   Output:         none
   Return:         返回第一个匹配的字符的地址，异常情况返回null
-  Others:         none
+  Others:         等同于string.h的函数: strpbrk(const char * str,const char * group)
 *************************************************/
 char * find_char(const char * source,const char * chars)
 {
