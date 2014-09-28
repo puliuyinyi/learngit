@@ -4,7 +4,7 @@
 static int is_traversed(const int flag[][COLS], point p);
 static int sign(int flag[][COLS],point p);
 
-/*ÅĞ¶ÏµãÊÇ·ñ±»±éÀú¹ı*/
+/*åˆ¤æ–­ç‚¹æ˜¯å¦è¢«éå†è¿‡*/
 static int is_traversed(const int flag[][COLS], point p)
 {
 	if(flag[p.row][p.col])
@@ -13,7 +13,7 @@ static int is_traversed(const int flag[][COLS], point p)
 		return 0;
 }
 
-/*ÅĞ¶ÏÊÇ·ñ±éÀú½áÊø*/
+/*åˆ¤æ–­æ˜¯å¦éå†ç»“æŸ*/
 int is_finished(const int flag[][COLS], int rows)
 {
 	int row,col;
@@ -31,7 +31,7 @@ int is_finished(const int flag[][COLS], int rows)
 		return 0;
 }
 
-/*±êÖÂ·ÃÎÊ¼ÇÂ¼*/
+/*æ ‡è‡´è®¿é—®è®°å½•*/
 static int sign(int flag[][COLS],point p)
 {
 	if(flag[p.row][p.col] == 0){
@@ -42,7 +42,7 @@ static int sign(int flag[][COLS],point p)
 		return 0;
 }
 
-/*ÅĞ¶ÏÊÇ·ñÄÜÏòÓÒ×ß*/
+/*åˆ¤æ–­æ˜¯å¦èƒ½å‘å³èµ°*/
 int if_go_right(point p, const int flag[][COLS])
 {
 	int row;
@@ -64,16 +64,16 @@ int if_go_right(point p, const int flag[][COLS])
 		return 1;
 }
 
-/*ÍùÓÒ×ß*/
+/*å¾€å³èµ°*/
 int go_right(point * p, const int arr[][COLS], int flag[][COLS])
 {
-	(*p).col++;	 //¸Ä±äµ±Ç°µã
-	printf("%d ",arr[(*p).row][(*p).col]);  //Êä³ö·ÃÎÊµã
-	sign(flag,*p);  //±êÖÂ·ÃÎÊ¼ÇÂ¼
+	(*p).col++;	 //æ”¹å˜å½“å‰ç‚¹
+	printf("%d ",arr[(*p).row][(*p).col]);  //è¾“å‡ºè®¿é—®ç‚¹
+	sign(flag,*p);  //æ ‡è‡´è®¿é—®è®°å½•
 	return 1;
 }
 
-/*ÅĞ¶ÏÊÇ·ñÄÜÏòÏÂ×ß*/
+/*åˆ¤æ–­æ˜¯å¦èƒ½å‘ä¸‹èµ°*/
 int if_go_down(point p, const int flag[][COLS], int rows)
 {
 	int row;
@@ -95,16 +95,16 @@ int if_go_down(point p, const int flag[][COLS], int rows)
 		return 1;
 }
 
-/*ÍùÏÂ×ß*/
+/*å¾€ä¸‹èµ°*/
 int go_down(point * p, const int arr[][COLS], int flag[][COLS])
 {
-	(*p).row++;	 //¸Ä±äµ±Ç°µã
-	printf("%d ",arr[(*p).row][(*p).col]);  //Êä³ö·ÃÎÊµã
-	sign(flag,*p);  //±êÖÂ·ÃÎÊ¼ÇÂ¼
+	(*p).row++;	 //æ”¹å˜å½“å‰ç‚¹
+	printf("%d ",arr[(*p).row][(*p).col]);  //è¾“å‡ºè®¿é—®ç‚¹
+	sign(flag,*p);  //æ ‡è‡´è®¿é—®è®°å½•
 	return 1;
 }
 
-/*ÅĞ¶ÏÊÇ·ñÄÜÏò×ó×ß*/
+/*åˆ¤æ–­æ˜¯å¦èƒ½å‘å·¦èµ°*/
 int if_go_left(point p, const int flag[][COLS])
 {
 	int row;
@@ -126,16 +126,16 @@ int if_go_left(point p, const int flag[][COLS])
 		return 1;
 }
 
-/*Íù×ó×ß*/
+/*å¾€å·¦èµ°*/
 int go_left(point * p, const int arr[][COLS], int flag[][COLS])
 {
-	(*p).col--;	 //¸Ä±äµ±Ç°µã
-	printf("%d ",arr[(*p).row][(*p).col]);  //Êä³ö·ÃÎÊµã
-	sign(flag,*p);  //±êÖÂ·ÃÎÊ¼ÇÂ¼
+	(*p).col--;	 //æ”¹å˜å½“å‰ç‚¹
+	printf("%d ",arr[(*p).row][(*p).col]);  //è¾“å‡ºè®¿é—®ç‚¹
+	sign(flag,*p);  //æ ‡è‡´è®¿é—®è®°å½•
 	return 1;
 }
 
-/*ÅĞ¶ÏÊÇ·ñÄÜÏòÉÏ×ß*/
+/*åˆ¤æ–­æ˜¯å¦èƒ½å‘ä¸Šèµ°*/
 int if_go_up(point p, const int flag[][COLS])
 {
 	int row;
@@ -157,11 +157,11 @@ int if_go_up(point p, const int flag[][COLS])
 		return 1;
 }
 
-/*ÍùÉÏ×ß*/
+/*å¾€ä¸Šèµ°*/
 int go_up(point * p, const int arr[][COLS], int flag[][COLS])
 {
-	(*p).row--;	 //¸Ä±äµ±Ç°µã
-	printf("%d ",arr[(*p).row][(*p).col]);  //Êä³ö·ÃÎÊµã
-	sign(flag,*p);  //±êÖÂ·ÃÎÊ¼ÇÂ¼
+	(*p).row--;	 //æ”¹å˜å½“å‰ç‚¹
+	printf("%d ",arr[(*p).row][(*p).col]);  //è¾“å‡ºè®¿é—®ç‚¹
+	sign(flag,*p);  //æ ‡è‡´è®¿é—®è®°å½•
 	return 1;
 }

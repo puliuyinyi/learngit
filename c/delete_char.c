@@ -1,12 +1,12 @@
 /*************************************************
   Function:        delete_char
-  Description:     É¾³ı×Ö·û´®ÖĞÖ¸¶¨µÄ×Ö·û    
+  Description:     åˆ é™¤å­—ç¬¦ä¸²ä¸­æŒ‡å®šçš„å­—ç¬¦    
   Calls:           none          
   Called By:       none      
   Table Accessed:  none 
   Table Updated:   none  
-  Input:           char * string ×Ö·û´®
-                   char ch ĞèÒªÉ¾³ıµÄ×Ö·û
+  Input:           char * string å¾…å¤„ç†å­—ç¬¦ä¸²
+                   char ch è¦åˆ é™¤çš„å­—ç¬¦
   Output:          string
   Return:          void
   Others:          none
