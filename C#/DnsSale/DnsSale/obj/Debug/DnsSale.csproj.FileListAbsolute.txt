@@ -1,0 +1,8 @@
+C:\Users\wangmeng\AppData\Local\Temporary Projects\DnsSale\bin\Debug\DnsSale.exe
+C:\Users\wangmeng\AppData\Local\Temporary Projects\DnsSale\bin\Debug\DnsSale.pdb
+C:\Users\wangmeng\AppData\Local\Temporary Projects\DnsSale\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wangmeng\AppData\Local\Temporary Projects\DnsSale\obj\Debug\DnsSale.DnsSaleForm.resources
+C:\Users\wangmeng\AppData\Local\Temporary Projects\DnsSale\obj\Debug\DnsSale.Properties.Resources.resources
+C:\Users\wangmeng\AppData\Local\Temporary Projects\DnsSale\obj\Debug\DnsSale.csproj.GenerateResource.Cache
+C:\Users\wangmeng\AppData\Local\Temporary Projects\DnsSale\obj\Debug\DnsSale.exe
+C:\Users\wangmeng\AppData\Local\Temporary Projects\DnsSale\obj\Debug\DnsSale.pdb

@@ -1,0 +1,22 @@
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\bin\Release\ShoppingApplication.exe
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\bin\Release\ShoppingApplication.pdb
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\obj\Release\ShoppingApplication.ProductForm.resources
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\obj\Release\ShoppingApplication.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\obj\Release\ShoppingApplication.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\obj\Release\ShoppingApplication.exe
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\obj\Release\ShoppingApplication.pdb
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\obj\Release\ShoppingApplication.addProductForm.resources
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\bin\Release\ShoppingApplication.exe
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\bin\Release\ShoppingApplication.pdb
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Release\ResolveAssemblyReference.cache
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Release\ShoppingApplication.AddProductForm.resources
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Release\ShoppingApplication.DeleteProductForm.resources
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Release\ShoppingApplication.IdentifyUserForm.resources
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Release\ShoppingApplication.ModifyProductForm.resources
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Release\ShoppingApplication.ProductForm.resources
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Release\ShoppingApplication.Properties.Resources.resources
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Release\ShoppingApplication.ShoppingForm.resources
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Release\ShoppingApplication.csproj.GenerateResource.Cache
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Release\ShoppingApplication.exe
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Release\ShoppingApplication.pdb

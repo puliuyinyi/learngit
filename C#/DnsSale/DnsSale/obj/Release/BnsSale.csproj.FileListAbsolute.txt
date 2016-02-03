@@ -1,0 +1,8 @@
+E:\C#\DnsSale\DnsSale\bin\Release\DnsSale.exe
+E:\C#\DnsSale\DnsSale\bin\Release\DnsSale.pdb
+E:\C#\DnsSale\DnsSale\obj\Release\ResolveAssemblyReference.cache
+E:\C#\DnsSale\DnsSale\obj\Release\DnsSale.DnsSaleForm.resources
+E:\C#\DnsSale\DnsSale\obj\Release\DnsSale.Properties.Resources.resources
+E:\C#\DnsSale\DnsSale\obj\Release\BnsSale.csproj.GenerateResource.Cache
+E:\C#\DnsSale\DnsSale\obj\Release\DnsSale.exe
+E:\C#\DnsSale\DnsSale\obj\Release\DnsSale.pdb

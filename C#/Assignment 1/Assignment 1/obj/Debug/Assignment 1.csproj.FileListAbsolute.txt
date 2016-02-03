@@ -1,0 +1,16 @@
+C:\Users\wangmeng\AppData\Local\Temporary Projects\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\wangmeng\AppData\Local\Temporary Projects\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\wangmeng\AppData\Local\Temporary Projects\Assignment 1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wangmeng\AppData\Local\Temporary Projects\Assignment 1\obj\Debug\Assignment_1.Form1.resources
+C:\Users\wangmeng\AppData\Local\Temporary Projects\Assignment 1\obj\Debug\Assignment_1.Properties.Resources.resources
+C:\Users\wangmeng\AppData\Local\Temporary Projects\Assignment 1\obj\Debug\Assignment 1.csproj.GenerateResource.Cache
+C:\Users\wangmeng\AppData\Local\Temporary Projects\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\wangmeng\AppData\Local\Temporary Projects\Assignment 1\obj\Debug\Assignment 1.pdb
+E:\c#\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+E:\c#\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
+E:\c#\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+E:\c#\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+E:\c#\Assignment 1\Assignment 1\obj\Debug\ResolveAssemblyReference.cache
+E:\c#\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Form1.resources
+E:\c#\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Properties.Resources.resources
+E:\c#\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.GenerateResource.Cache

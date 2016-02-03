@@ -1,0 +1,93 @@
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\bin\Debug\ShoppingApplication.exe
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\bin\Debug\ShoppingApplication.pdb
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\obj\Debug\ShoppingApplication.addProductForm.resources
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\obj\Debug\ShoppingApplication.ProductForm.resources
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\obj\Debug\ShoppingApplication.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\obj\Debug\ShoppingApplication.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\obj\Debug\ShoppingApplication.exe
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\obj\Debug\ShoppingApplication.pdb
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\obj\Debug\ShoppingApplication.DeleteProductForm.resources
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\obj\Debug\ShoppingApplication.ModifyProductForm.resources
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\obj\Debug\ShoppingApplication.ShoppingForm.resources
+D:\Documents\Visual Studio 2008\Projects\ShoppingApplication\ShoppingApplication\obj\Debug\ShoppingApplication.IdentifyUserForm.resources
+I:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.exe
+I:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.pdb
+G:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.exe
+G:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.pdb
+C:\Users\dell\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.exe
+C:\Users\dell\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.pdb
+C:\Users\dell\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.AddProductForm.resources
+C:\Users\dell\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.DeleteProductForm.resources
+C:\Users\dell\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.IdentifyUserForm.resources
+C:\Users\dell\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.ModifyProductForm.resources
+C:\Users\dell\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.ProductForm.resources
+C:\Users\dell\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.Properties.Resources.resources
+C:\Users\dell\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.ShoppingForm.resources
+C:\Users\dell\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\bin\Debug\ShoppingApplication.exe
+C:\Users\dell\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\bin\Debug\ShoppingApplication.pdb
+I:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\bin\Debug\ShoppingApplication.exe
+I:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\bin\Debug\ShoppingApplication.pdb
+I:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ResolveAssemblyReference.cache
+I:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.AddProductForm.resources
+I:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.DeleteProductForm.resources
+I:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.IdentifyUserForm.resources
+I:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.ModifyProductForm.resources
+I:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.ProductForm.resources
+I:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.Properties.Resources.resources
+I:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.ShoppingForm.resources
+I:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.exe
+C:\Users\asus\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.pdb
+C:\Users\asus\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\bin\Debug\ShoppingApplication.exe
+C:\Users\asus\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\bin\Debug\ShoppingApplication.pdb
+C:\Users\asus\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\asus\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.AddProductForm.resources
+C:\Users\asus\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.DeleteProductForm.resources
+C:\Users\asus\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.IdentifyUserForm.resources
+C:\Users\asus\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.ModifyProductForm.resources
+C:\Users\asus\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.ProductForm.resources
+C:\Users\asus\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.Properties.Resources.resources
+C:\Users\asus\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.ShoppingForm.resources
+C:\Users\asus\Desktop\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.csproj.GenerateResource.Cache
+F:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.exe
+F:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.pdb
+F:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\bin\Debug\ShoppingApplication.exe
+F:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\bin\Debug\ShoppingApplication.pdb
+F:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.AddProductForm.resources
+F:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.DeleteProductForm.resources
+F:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.IdentifyUserForm.resources
+F:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.ModifyProductForm.resources
+F:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.ProductForm.resources
+F:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.Properties.Resources.resources
+F:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.ShoppingForm.resources
+F:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.csproj.GenerateResource.Cache
+F:\C#作业\C#淼\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.csprojResolveAssemblyReference.cache
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.exe
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.pdb
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.AddProductForm.resources
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.DeleteProductForm.resources
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.IdentifyUserForm.resources
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.ModifyProductForm.resources
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.ProductForm.resources
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.Properties.Resources.resources
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.ShoppingForm.resources
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\obj\Debug\ShoppingApplication.csproj.GenerateResource.Cache
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\bin\Debug\ShoppingApplication.exe
+E:\C#\2011118036 李春淼(第四次)\ShoppingApplication\bin\Debug\ShoppingApplication.pdb
+E:\C#\Assignment 4\ShoppingApplication\bin\Debug\ShoppingApplication.exe
+E:\C#\Assignment 4\ShoppingApplication\bin\Debug\ShoppingApplication.pdb
+E:\C#\Assignment 4\ShoppingApplication\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\Assignment 4\ShoppingApplication\obj\Debug\ShoppingApplication.AddProductForm.resources
+E:\C#\Assignment 4\ShoppingApplication\obj\Debug\ShoppingApplication.DeleteProductForm.resources
+E:\C#\Assignment 4\ShoppingApplication\obj\Debug\ShoppingApplication.IdentifyUserForm.resources
+E:\C#\Assignment 4\ShoppingApplication\obj\Debug\ShoppingApplication.ModifyProductForm.resources
+E:\C#\Assignment 4\ShoppingApplication\obj\Debug\ShoppingApplication.ProductForm.resources
+E:\C#\Assignment 4\ShoppingApplication\obj\Debug\ShoppingApplication.Properties.Resources.resources
+E:\C#\Assignment 4\ShoppingApplication\obj\Debug\ShoppingApplication.ShoppingForm.resources
+E:\C#\Assignment 4\ShoppingApplication\obj\Debug\ShoppingApplication.csproj.GenerateResource.Cache
+E:\C#\Assignment 4\ShoppingApplication\obj\Debug\ShoppingApplication.exe
+E:\C#\Assignment 4\ShoppingApplication\obj\Debug\ShoppingApplication.pdb

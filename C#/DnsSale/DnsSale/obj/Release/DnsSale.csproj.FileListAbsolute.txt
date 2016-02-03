@@ -1,0 +1,16 @@
+C:\Users\wangmeng\AppData\Local\Temporary Projects\DnsSale\bin\Release\DnsSale.exe
+C:\Users\wangmeng\AppData\Local\Temporary Projects\DnsSale\bin\Release\DnsSale.pdb
+C:\Users\wangmeng\AppData\Local\Temporary Projects\DnsSale\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wangmeng\AppData\Local\Temporary Projects\DnsSale\obj\Release\DnsSale.DnsSaleForm.resources
+C:\Users\wangmeng\AppData\Local\Temporary Projects\DnsSale\obj\Release\DnsSale.Properties.Resources.resources
+C:\Users\wangmeng\AppData\Local\Temporary Projects\DnsSale\obj\Release\DnsSale.csproj.GenerateResource.Cache
+C:\Users\wangmeng\AppData\Local\Temporary Projects\DnsSale\obj\Release\DnsSale.exe
+C:\Users\wangmeng\AppData\Local\Temporary Projects\DnsSale\obj\Release\DnsSale.pdb
+E:\C#\DnsSale\DnsSale\obj\Release\DnsSale.exe
+E:\C#\DnsSale\DnsSale\obj\Release\DnsSale.pdb
+E:\C#\DnsSale\DnsSale\bin\Release\DnsSale.exe
+E:\C#\DnsSale\DnsSale\bin\Release\DnsSale.pdb
+E:\C#\DnsSale\DnsSale\obj\Release\ResolveAssemblyReference.cache
+E:\C#\DnsSale\DnsSale\obj\Release\DnsSale.DnsSaleForm.resources
+E:\C#\DnsSale\DnsSale\obj\Release\DnsSale.Properties.Resources.resources
+E:\C#\DnsSale\DnsSale\obj\Release\DnsSale.csproj.GenerateResource.Cache

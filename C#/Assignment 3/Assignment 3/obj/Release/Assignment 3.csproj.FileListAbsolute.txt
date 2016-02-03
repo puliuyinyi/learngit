@@ -1,0 +1,10 @@
+C:\Users\wangmeng\AppData\Local\Temporary Projects\Assignment 3\bin\Release\Assignment 3.exe
+C:\Users\wangmeng\AppData\Local\Temporary Projects\Assignment 3\bin\Release\Assignment 3.pdb
+C:\Users\wangmeng\AppData\Local\Temporary Projects\Assignment 3\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wangmeng\AppData\Local\Temporary Projects\Assignment 3\obj\Release\Assignment 3.exe
+C:\Users\wangmeng\AppData\Local\Temporary Projects\Assignment 3\obj\Release\Assignment 3.pdb
+E:\C#\Assignment 3\Assignment 3\obj\Release\Assignment 3.exe
+E:\C#\Assignment 3\Assignment 3\obj\Release\Assignment 3.pdb
+E:\C#\Assignment 3\Assignment 3\bin\Release\Assignment 3.exe
+E:\C#\Assignment 3\Assignment 3\bin\Release\Assignment 3.pdb
+E:\C#\Assignment 3\Assignment 3\obj\Release\ResolveAssemblyReference.cache

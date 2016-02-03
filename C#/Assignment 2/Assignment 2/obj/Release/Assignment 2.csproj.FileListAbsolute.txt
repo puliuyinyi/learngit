@@ -1,0 +1,8 @@
+E:\C#\Assignment 2\Assignment 2\bin\Release\Assignment 2.exe
+E:\C#\Assignment 2\Assignment 2\bin\Release\Assignment 2.pdb
+E:\C#\Assignment 2\Assignment 2\obj\Release\ResolveAssemblyReference.cache
+E:\C#\Assignment 2\Assignment 2\obj\Release\Assignment_2.Form1.resources
+E:\C#\Assignment 2\Assignment 2\obj\Release\Assignment_2.Properties.Resources.resources
+E:\C#\Assignment 2\Assignment 2\obj\Release\Assignment 2.csproj.GenerateResource.Cache
+E:\C#\Assignment 2\Assignment 2\obj\Release\Assignment 2.exe
+E:\C#\Assignment 2\Assignment 2\obj\Release\Assignment 2.pdb
